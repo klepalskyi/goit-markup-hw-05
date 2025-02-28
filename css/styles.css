@@ -730,6 +730,7 @@ input::placeholder {
 
 .modal-input-checkbox:checked + .modal-checkbox-label .custom-checkbox {
   background-color: #404bbf;
+  fill: #f4f4fd;
   border: none;
   border-radius: 2px;
 }
